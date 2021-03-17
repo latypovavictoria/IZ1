@@ -1,0 +1,5 @@
+/usr/technopark/test/CMakeFiles/edit_cache.dir
+/usr/technopark/test/CMakeFiles/tests.dir
+/usr/technopark/test/CMakeFiles/prog.dir
+/usr/technopark/test/CMakeFiles/rebuild_cache.dir
+/usr/technopark/test/CMakeFiles/my_lib.dir
